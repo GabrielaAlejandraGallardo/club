@@ -1,0 +1,8 @@
+Unstaged changes after reset:
+M	club/club/__pycache__/__init__.cpython-312.pyc
+M	club/club/__pycache__/settings.cpython-312.pyc
+M	club/club/__pycache__/urls.cpython-312.pyc
+M	club/jugadores/__pycache__/__init__.cpython-312.pyc
+M	club/jugadores/__pycache__/apps.cpython-312.pyc
+M	club/jugadores/__pycache__/models.cpython-312.pyc
+D	club_main
